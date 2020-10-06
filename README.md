@@ -4,7 +4,7 @@ This is the GitHub repository of [R-CODER](https://r-coder.com/) 🚀, a website
 
 - 💻 If you want to **learn R from zero** take a look to our [free course](https://r-coder.com/learn-r).
 - 📫 Contact us: support.rcoder@protonmail.com
-- 🌱 Follow us on Twitter: https://github.com/R-CoderDotCom
+- 🌱 Follow us on Twitter: https://twitter.com/RCoderWeb
 - ⚡ Follow us on Facebook: https://www.facebook.com/RCODERweb
 
 ## Take a look to our repositories:
