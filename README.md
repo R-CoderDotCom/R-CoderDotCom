@@ -7,6 +7,9 @@ This is the GitHub repository of [R-CODER](https://r-coder.com/) 🚀, a website
 - 🌱 Follow us on Twitter: https://twitter.com/RCoderWeb
 - ⚡ Follow us on Facebook: https://www.facebook.com/RCODERweb
 
+
+[![fanwangecon's github stats](https://github-readme-stats.vercel.app/api?username=R-CoderDotCom&count_private=false&show_icons=true&hide_rank=true)](https://github.com/R-CoderDotCom) 
+
 ## Take a look to our repositories:
 
 <!--
