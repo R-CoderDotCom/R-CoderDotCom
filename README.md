@@ -4,11 +4,12 @@ This is the GitHub repository of [R-CODER](https://r-coder.com/) 🚀, a website
 
 - 💻 If you want to **learn R from zero** take a look to our [free course](https://r-coder.com/learn-r).
 - 📫 Contact us: support.rcoder@protonmail.com
-- 🌱 Follow us on Twitter: https://twitter.com/RCoderWeb
-- ⚡ Follow us on Facebook: https://www.facebook.com/RCODERweb
 
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://r-coder.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/RCoderWeb)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://instagram.com/gkassym/)
 
-[![fanwangecon's github stats](https://github-readme-stats.vercel.app/api?username=R-CoderDotCom&count_private=false&show_icons=true&hide_rank=true)](https://github.com/R-CoderDotCom) 
+[![R CODER github stats](https://github-readme-stats.vercel.app/api?username=R-CoderDotCom&count_private=false&show_icons=true&hide_rank=true)](https://github.com/R-CoderDotCom) 
 
 <p align="left"> 
   Visitor count <br />
