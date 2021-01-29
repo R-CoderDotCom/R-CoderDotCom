@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 This is the GitHub repository of [R-CODER](https://r-coder.com/) 🚀, a website that provides detailed R tutorials in English and Spanish.
 
@@ -14,6 +14,7 @@ This is the GitHub repository of [R-CODER](https://r-coder.com/) 🚀, a website
   Visitor count <br />
   <img src="https://profile-counter.glitch.me/R-CoderDotCom/count.svg" />
 </p>
+
 ## Take a look to our repositories:
 
 <!--
