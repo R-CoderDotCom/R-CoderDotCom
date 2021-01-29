@@ -10,6 +10,10 @@ This is the GitHub repository of [R-CODER](https://r-coder.com/) 🚀, a website
 
 [![fanwangecon's github stats](https://github-readme-stats.vercel.app/api?username=R-CoderDotCom&count_private=false&show_icons=true&hide_rank=true)](https://github.com/R-CoderDotCom) 
 
+<p align="left"> 
+  Visitor count <br />
+  <img src="https://profile-counter.glitch.me/R-CoderDotCom/count.svg" />
+</p>
 ## Take a look to our repositories:
 
 <!--
