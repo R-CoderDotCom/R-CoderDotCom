@@ -10,7 +10,7 @@ This is the GitHub repository of [R-CODER](https://r-coder.com/) 🚀, a website
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://instagram.com/gkassym/)
 
 [![R CODER github stats](https://github-readme-stats.vercel.app/api?username=R-CoderDotCom&count_private=false&show_icons=true&hide_rank=true)](https://github.com/R-CoderDotCom) 
-
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width:100%;" width="500" height="320" align="right">
 <p align="left"> 
   Visitor count <br />
   <img src="https://profile-counter.glitch.me/R-CoderDotCom/count.svg" />
