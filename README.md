@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-This is the GitHub repository of [R CODER](https://r-coder.com/) 🚀, a website that provides detailed R tutorials in English and Spanish.
+This is the GitHub repository of [R CODER](https://r-coder.com/) and [R CHARTS](https://r-charts.com/)🚀, two websites that provide detailed R tutorials in English and Spanish.
 
 - 💻 If you want to **learn R from zero** take a look to our [free course](https://r-coder.com/learn-r).
 - 📫 Contact us: support.rcoder@protonmail.com
