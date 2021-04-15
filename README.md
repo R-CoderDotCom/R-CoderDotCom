@@ -7,9 +7,6 @@
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/RCODER"><img class="mt-5 hover-bmc" src="https://img.buymeacoffee.com/button-api/?text=Support%20R%20CHARTS%20&amp;emoji=📊&amp;slug=RCODER&amp;button_colour=67c9ff&amp;font_colour=ffffff&amp;font_family=Poppins&amp;outline_colour=000000&amp;coffee_colour=FFDD00"></a>
-</p>
 
 This is the GitHub repository of [R CODER](https://r-coder.com/) and [R CHARTS](https://r-charts.com/)🚀, two websites that provide detailed R tutorials in English and Spanish.
 
@@ -25,7 +22,7 @@ This is the GitHub repository of [R CODER](https://r-coder.com/) and [R CHARTS](
   <img src="https://profile-counter.glitch.me/R-CoderDotCom/count.svg" />
 </p>
 
-## Take a look to our repositories:
+<a href="https://www.buymeacoffee.com/RCODER"><img class="mt-5 hover-bmc" src="https://img.buymeacoffee.com/button-api/?text=Support%20R%20CHARTS%20&amp;emoji=📊&amp;slug=RCODER&amp;button_colour=67c9ff&amp;font_colour=ffffff&amp;font_family=Poppins&amp;outline_colour=000000&amp;coffee_colour=FFDD00"></a>
 
 <!--
 **R-CoderDotCom/R-CoderDotCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
